@@ -13,7 +13,11 @@ DEBUG;TRACE
 2250819922
 
 6-1741738227
+<<<<<<< HEAD
 16-1204967648
+=======
+162056350711
+>>>>>>> 025aa8fd0dae29ad69e71049b77a979ab7c71fd2
 MVVM\View\view_SectionSlab2D.xaml;Resource\ResourceDictionary.xaml;
 
 True

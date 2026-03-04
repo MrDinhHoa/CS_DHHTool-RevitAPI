@@ -13,7 +13,11 @@ DEBUG;TRACE
 3-653418742
 
 11183655162
+<<<<<<< HEAD
 20463355569
+=======
+201909947105
+>>>>>>> 025aa8fd0dae29ad69e71049b77a979ab7c71fd2
 MVVM\View\vGetCADFile.xaml;MVVM\View\vLoadCAD.xaml;MVVM\View\vMain.xaml;
 
 True

@@ -12,9 +12,14 @@ DEBUG;TRACE
 
 1-1104988286
 
+<<<<<<< HEAD
 41665435929
 17-1662905121
+=======
+5-707753246
+162056350711
+>>>>>>> 025aa8fd0dae29ad69e71049b77a979ab7c71fd2
 MVVM\View\vMainDrawDetailBeam.xaml;
 
-False
+True
 

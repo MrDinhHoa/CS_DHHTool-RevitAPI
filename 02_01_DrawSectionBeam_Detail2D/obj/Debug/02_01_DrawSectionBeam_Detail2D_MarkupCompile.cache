@@ -13,7 +13,11 @@ DEBUG;TRACE
 294465280
 
 10-1024068282
+<<<<<<< HEAD
 32946253733
+=======
+32-1699963536
+>>>>>>> 025aa8fd0dae29ad69e71049b77a979ab7c71fd2
 MVVM\View\vMain.xaml;Resource\ResourceDictionary.xaml;
 
 True
