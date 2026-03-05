@@ -7,8 +7,7 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     x:Name="DetailBeam2D"
     Title="Vẽ mặt cắt dầm"
-    Width="1400"
-    Height="700"
+    SizeToContent="WidthAndHeight"
     ResizeMode="NoResize"
     WindowStartupLocation="CenterScreen"
     mc:Ignorable="d">
@@ -22,10 +21,9 @@
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition />
-            <RowDefinition Height="200"/>
             <RowDefinition Height="52" />
         </Grid.RowDefinitions>
-        <TabControl TabStripPlacement="Left">
+        <TabControl TabStripPlacement="Left" SelectedIndex="1">
             <TabControl.Resources>
                 <Style TargetType="TabItem">
                     <Setter Property="Height" 
@@ -35,6 +33,21 @@
                 </Style>
             </TabControl.Resources>
             <TabItem>
+                <Grid Width="600" Height="300">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="150"/>
+                        <ColumnDefinition Width="200"/>
+                        <ColumnDefinition Width="100"/>
+                    </Grid.ColumnDefinitions>
+                </Grid>
                 <TabItem.Header >
                     <StackPanel HorizontalAlignment="Left" 
                                 Orientation="Horizontal">
@@ -45,7 +58,17 @@
                     </StackPanel>
                 </TabItem.Header>
             </TabItem>
-            <TabItem >
+            <TabItem>
+                <Grid Width="1200">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="400"/>
+                        <RowDefinition Height="200"/>
+                    </Grid.RowDefinitions>
+                    <Canvas x:Name="viewCanvas"
+                            Background="WhiteSmoke"
+                            Grid.Row="1" Margin="5">
+                    </Canvas>
+                </Grid>
                 <TabItem.Header>
                     <StackPanel HorizontalAlignment="Left" 
                                 Orientation="Horizontal">
@@ -57,10 +80,6 @@
                 </TabItem.Header>
             </TabItem>
         </TabControl>
-        <Canvas x:Name="viewCanvas"
-            Background="WhiteSmoke"
-            Grid.Row="1" Margin="5">
-        </Canvas>
         <DockPanel Grid.Row="2" LastChildFill="True" HorizontalAlignment="Right">
             <Button
                  Width="140" Height="40"
