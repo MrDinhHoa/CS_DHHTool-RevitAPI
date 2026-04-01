@@ -4,7 +4,7 @@
 library
 C#
 .cs
-D:\01_WORKING\00. C-Sharp\04.CS_DHHTool_RevitAPI\05_01_ModelEtabsFromRevit\obj\Debug\
+D:\PROGRAMMING\CS_DHHTool-RevitAPI\05_01_ModelEtabsFromRevit\obj\Debug\
 _05_01_ModelEtabsFromRevit
 none
 false
@@ -13,11 +13,7 @@ DEBUG;TRACE
 1-548700519
 
 6695522670
-<<<<<<< HEAD
-19-94206437
-=======
-20-1463127056
->>>>>>> 025aa8fd0dae29ad69e71049b77a979ab7c71fd2
+16-1956102879
 MVVM\View\vMainEtabsFromRevit.xaml;
 
 True

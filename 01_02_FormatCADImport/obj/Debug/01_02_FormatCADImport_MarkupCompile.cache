@@ -4,7 +4,7 @@
 library
 C#
 .cs
-D:\01_WORKING\00. C-Sharp\04.CS_DHHTool_RevitAPI\01_02_FormatCADImport\obj\Debug\
+D:\PROGRAMMING\CS_DHHTool-RevitAPI\01_02_FormatCADImport\obj\Debug\
 _01_02_FormatCADImport
 none
 false
@@ -13,11 +13,7 @@ DEBUG;TRACE
 3-653418742
 
 11183655162
-<<<<<<< HEAD
-20463355569
-=======
-201909947105
->>>>>>> 025aa8fd0dae29ad69e71049b77a979ab7c71fd2
+18-321119922
 MVVM\View\vGetCADFile.xaml;MVVM\View\vLoadCAD.xaml;MVVM\View\vMain.xaml;
 
 True

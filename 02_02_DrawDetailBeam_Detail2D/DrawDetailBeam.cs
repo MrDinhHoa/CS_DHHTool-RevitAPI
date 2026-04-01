@@ -22,7 +22,6 @@ namespace _02_02_DrawDetailBeam_Detail2D
             Document document = uIDocument.Document;
             using (TransactionGroup transGroup = new TransactionGroup(document))
             {
-
                 transGroup.Start("Vẽ chi tiết dầm");
                 vMainDrawDetailBeam win = new vMainDrawDetailBeam();
                 bool? dialog = win.ShowDialog();

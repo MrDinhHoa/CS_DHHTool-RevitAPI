@@ -4,7 +4,7 @@
 library
 C#
 .cs
-D:\01_WORKING\00. C-Sharp\04.CS_DHHTool_RevitAPI\06_04_RS2D_RebarSlab2D\obj\Debug\
+D:\PROGRAMMING\CS_DHHTool-RevitAPI\06_04_RS2D_RebarSlab2D\obj\Debug\
 _06_04_RS2D_RebarSlab2D
 none
 false
@@ -13,11 +13,7 @@ DEBUG;TRACE
 1752503431
 
 8293911102
-<<<<<<< HEAD
-21-410382687
-=======
-211276263482
->>>>>>> 025aa8fd0dae29ad69e71049b77a979ab7c71fd2
+20-572509002
 MVVM\View\vMainRebarSlab2DSchedule.xaml;
 
 True
