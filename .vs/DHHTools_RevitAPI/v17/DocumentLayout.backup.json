@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D671163C-4737-4D50-BC5C-9DE535EBA5EA}|02_02_DrawDetailBeam_Detail2D\\02_02_DrawDetailBeam_Detail2D.csproj|d:\\01_working\\00. c-sharp\\04.cs_dhhtool_revitapi\\02_02_drawdetailbeam_detail2d\\mvvm\\view\\vmaindrawdetailbeam.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D671163C-4737-4D50-BC5C-9DE535EBA5EA}|02_02_DrawDetailBeam_Detail2D\\02_02_DrawDetailBeam_Detail2D.csproj|solutionrelative:02_02_drawdetailbeam_detail2d\\mvvm\\view\\vmaindrawdetailbeam.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D671163C-4737-4D50-BC5C-9DE535EBA5EA}|02_02_DrawDetailBeam_Detail2D\\02_02_DrawDetailBeam_Detail2D.csproj|D:\\01_WORKING\\00. C-Sharp\\04.CS_DHHTool_RevitAPI\\02_02_drawdetailbeam_detail2d\\drawdetailbeam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D671163C-4737-4D50-BC5C-9DE535EBA5EA}|02_02_DrawDetailBeam_Detail2D\\02_02_DrawDetailBeam_Detail2D.csproj|solutionrelative:02_02_drawdetailbeam_detail2d\\drawdetailbeam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,20 +25,8 @@
               "ToolTip": "D:\\01_WORKING\\00. C-Sharp\\04.CS_DHHTool_RevitAPI\\02_02_DrawDetailBeam_Detail2D\\MVVM\\View\\vMainDrawDetailBeam.xaml",
               "RelativeToolTip": "02_02_DrawDetailBeam_Detail2D\\MVVM\\View\\vMainDrawDetailBeam.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-04T06:46:58.451Z",
+              "WhenOpened": "2026-04-01T09:12:27.033Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DrawDetailBeam.cs",
-              "DocumentMoniker": "D:\\01_WORKING\\00. C-Sharp\\04.CS_DHHTool_RevitAPI\\02_02_DrawDetailBeam_Detail2D\\DrawDetailBeam.cs",
-              "RelativeDocumentMoniker": "02_02_DrawDetailBeam_Detail2D\\DrawDetailBeam.cs",
-              "ToolTip": "D:\\01_WORKING\\00. C-Sharp\\04.CS_DHHTool_RevitAPI\\02_02_DrawDetailBeam_Detail2D\\DrawDetailBeam.cs",
-              "RelativeToolTip": "02_02_DrawDetailBeam_Detail2D\\DrawDetailBeam.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T06:46:53.918Z"
             }
           ]
         }
