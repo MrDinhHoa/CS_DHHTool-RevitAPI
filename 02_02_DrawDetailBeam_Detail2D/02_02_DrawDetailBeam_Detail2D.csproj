@@ -32,8 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="00_00_DHHShareLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
+    <Reference Include="00_00_DHHShareLibrary">
       <HintPath>..\..\01.CS_DHHTool_LibraryAPI\00_00_DHHShareLibrary\bin\Debug\00_00_DHHShareLibrary.dll</HintPath>
     </Reference>
     <Reference Include="BIMSoftLib">
