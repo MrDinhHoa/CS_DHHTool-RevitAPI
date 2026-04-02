@@ -29,7 +29,6 @@ namespace _02_02_DrawDetailBeam_Detail2D
                     return Result.Succeeded;
                 transGroup.Commit();
             }
-
             return Result.Succeeded;
         }
     }

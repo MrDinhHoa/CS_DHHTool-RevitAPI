@@ -41,7 +41,6 @@ D:\01_WORKING\00. C-Sharp\04.CS_DHHTool_RevitAPI\02_02_DrawDetailBeam_Detail2D\o
 D:\01_WORKING\00. C-Sharp\04.CS_DHHTool_RevitAPI\02_02_DrawDetailBeam_Detail2D\obj\Debug\02_02_Dr.DEE76E46.Up2Date
 D:\PROGRAMMING\CS_DHHTool-RevitAPI\02_02_DrawDetailBeam_Detail2D\bin\Debug\02_02_DrawDetailBeam_Detail2D.dll
 D:\PROGRAMMING\CS_DHHTool-RevitAPI\02_02_DrawDetailBeam_Detail2D\bin\Debug\02_02_DrawDetailBeam_Detail2D.pdb
-D:\PROGRAMMING\CS_DHHTool-RevitAPI\02_02_DrawDetailBeam_Detail2D\bin\Debug\00_00_DHHShareLibrary.pdb
 D:\PROGRAMMING\CS_DHHTool-RevitAPI\02_02_DrawDetailBeam_Detail2D\obj\Debug\02_02_DrawDetailBeam_Detail2D.csproj.AssemblyReference.cache
 D:\PROGRAMMING\CS_DHHTool-RevitAPI\02_02_DrawDetailBeam_Detail2D\obj\Debug\MVVM\View\vMainDrawDetailBeam.g.cs
 D:\PROGRAMMING\CS_DHHTool-RevitAPI\02_02_DrawDetailBeam_Detail2D\obj\Debug\02_02_DrawDetailBeam_Detail2D_MarkupCompile.cache
