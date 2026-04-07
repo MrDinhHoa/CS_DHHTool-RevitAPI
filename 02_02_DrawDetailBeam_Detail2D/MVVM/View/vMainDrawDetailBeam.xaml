@@ -37,28 +37,28 @@
                     </Grid.ColumnDefinitions>
                     <StackPanel>
                         <HeaderedContentControl
-                        HorizontalAlignment="Stretch"
-                        Header="Tiết diện:"
-                        Style="{DynamicResource RoundedHeaderBorderStyle}">
+                            HorizontalAlignment="Stretch"
+                            Header="Tiết diện:"
+                            Style="{DynamicResource RoundedHeaderBorderStyle}">
                             <StackPanel Orientation="Horizontal">
                                 <TextBlock
-                                HorizontalAlignment="Left"
-                                Style="{DynamicResource TextBlockStyle}"
-                                Text="b × h =                " />
+                                    HorizontalAlignment="Left"
+                                    Style="{DynamicResource TextBlockStyle}"
+                                    Text="b × h =                " />
                                 <TextBox Width="80" Style="{DynamicResource TextBoxStyle}" />
                                 <TextBlock
-                                HorizontalAlignment="Left"
-                                Style="{DynamicResource TextBlockStyle}"
-                                Text="  ×  " />
+                                    HorizontalAlignment="Left"
+                                    Style="{DynamicResource TextBlockStyle}"
+                                    Text="  ×  " />
                                 <TextBox Width="80" Style="{DynamicResource TextBoxStyle}" />
                             </StackPanel>
                         </HeaderedContentControl>
                         <HeaderedContentControl
-                        Grid.Row="1"
-                        HorizontalAlignment="Stretch"
-                        VerticalAlignment="Center"
-                        Header="Thép chủ:"
-                        Style="{DynamicResource RoundedHeaderBorderStyle}">
+                            Grid.Row="1"
+                            HorizontalAlignment="Stretch"
+                            VerticalAlignment="Center"
+                            Header="Thép chủ:"
+                            Style="{DynamicResource RoundedHeaderBorderStyle}">
                             <Grid Margin="0,-5,0,0">
                                 <Grid.RowDefinitions>
                                     <RowDefinition Height="40" />
@@ -69,48 +69,40 @@
                                     <ColumnDefinition Width="Auto" />
                                 </Grid.ColumnDefinitions>
                                 <TextBlock
-                                Grid.Row="0"
-                                VerticalAlignment="Center"
-                                Text="Thép lớp trên:" />
+                                    Grid.Row="0"
+                                    VerticalAlignment="Center"
+                                    Text="Thép lớp trên:" />
                                 <StackPanel
-                                Grid.Column="1"
-                                HorizontalAlignment="Right"
-                                Orientation="Horizontal">
-                                    <TextBox
-                                    Width="50"
-                                    Style="{StaticResource TextBoxStyle}" />
+                                    Grid.Column="1"
+                                    HorizontalAlignment="Right"
+                                    Orientation="Horizontal">
+                                    <TextBox Width="50" Style="{StaticResource TextBoxStyle}" />
                                     <TextBlock VerticalAlignment="Center" Text="   Ø   " />
-                                    <ComboBox
-                                    Width="50"
-                                    Style="{StaticResource ComboBox}" />
+                                    <ComboBox Width="50" Style="{StaticResource ComboBox}" />
                                 </StackPanel>
                                 <TextBlock
-                                Grid.Row="1"
-                                Grid.Column="0"
-                                VerticalAlignment="Center"
-                                Text="Thép lớp trên:" />
+                                    Grid.Row="1"
+                                    Grid.Column="0"
+                                    VerticalAlignment="Center"
+                                    Text="Thép lớp trên:" />
                                 <StackPanel
-                                Grid.Row="1"
-                                Grid.Column="1"
-                                Margin="45,0,0,0"
-                                HorizontalAlignment="Right"
-                                Orientation="Horizontal">
-                                    <TextBox
-                                    Width="50"
-                                    Style="{StaticResource TextBoxStyle}" />
+                                    Grid.Row="1"
+                                    Grid.Column="1"
+                                    Margin="45,0,0,0"
+                                    HorizontalAlignment="Right"
+                                    Orientation="Horizontal">
+                                    <TextBox Width="50" Style="{StaticResource TextBoxStyle}" />
                                     <TextBlock VerticalAlignment="Center" Text="   Ø   " />
-                                    <ComboBox
-                                    Width="50"
-                                    Style="{StaticResource ComboBox}" />
+                                    <ComboBox Width="50" Style="{StaticResource ComboBox}" />
                                 </StackPanel>
                             </Grid>
                         </HeaderedContentControl>
                         <HeaderedContentControl
-                        Grid.Row="2"
-                        HorizontalAlignment="Stretch"
-                        VerticalAlignment="Center"
-                        Header="Thép đai:"
-                        Style="{DynamicResource RoundedHeaderBorderStyle}">
+                            Grid.Row="2"
+                            HorizontalAlignment="Stretch"
+                            VerticalAlignment="Center"
+                            Header="Thép đai:"
+                            Style="{DynamicResource RoundedHeaderBorderStyle}">
                             <Grid Margin="0,-5,0,0">
                                 <Grid.RowDefinitions>
                                     <RowDefinition Height="40" />
@@ -121,36 +113,36 @@
                                     <ColumnDefinition Width="Auto" />
                                 </Grid.ColumnDefinitions>
                                 <TextBlock
-                                Grid.Row="0"
-                                VerticalAlignment="Center"
-                                Text="Đường kính:" />
+                                    Grid.Row="0"
+                                    VerticalAlignment="Center"
+                                    Text="Đường kính:" />
                                 <ComboBox
-                                Grid.Column="1"
-                                Margin="73,0,0,0"
-                                Width="100"
-                                Style="{DynamicResource ComboBox}" />
+                                    Grid.Column="1"
+                                    Width="100"
+                                    Margin="73,0,0,0"
+                                    Style="{DynamicResource ComboBox}" />
                                 <TextBlock
-                                Grid.Row="1"
-                                Grid.Column="0"
-                                VerticalAlignment="Center"
-                                Text="Hình dạng đai:" />
+                                    Grid.Row="1"
+                                    Grid.Column="0"
+                                    VerticalAlignment="Center"
+                                    Text="Hình dạng đai:" />
                                 <ComboBox
-                                Grid.Row="1"
-                                Style="{DynamicResource ComboBox}"
-                                Margin="73,0,0,0"
-                                Grid.Column="1"
-                                Width="100"
-                                Height="76"/>
+                                    Grid.Row="1"
+                                    Grid.Column="1"
+                                    Width="100"
+                                    Height="76"
+                                    Margin="73,0,0,0"
+                                    Style="{DynamicResource ComboBox}" />
                             </Grid>
                         </HeaderedContentControl>
                     </StackPanel>
                     <StackPanel Grid.Column="1">
                         <HeaderedContentControl
-                        Grid.Row="1"
-                        HorizontalAlignment="Stretch"
-                        VerticalAlignment="Center"
-                        Header="Thép gia cường:"
-                        Style="{DynamicResource RoundedHeaderBorderStyle}">
+                            Grid.Row="1"
+                            HorizontalAlignment="Stretch"
+                            VerticalAlignment="Center"
+                            Header="Thép gia cường:"
+                            Style="{DynamicResource RoundedHeaderBorderStyle}">
                             <Grid Margin="0,-5,0,0">
                                 <Grid.RowDefinitions>
                                     <RowDefinition Height="40" />
@@ -161,48 +153,40 @@
                                     <ColumnDefinition Width="Auto" />
                                 </Grid.ColumnDefinitions>
                                 <TextBlock
-                                Grid.Row="0"
-                                VerticalAlignment="Center"
-                                Text="Thép lớp trên:" />
+                                    Grid.Row="0"
+                                    VerticalAlignment="Center"
+                                    Text="Thép lớp trên:" />
                                 <StackPanel
-                                Grid.Column="1"
-                                HorizontalAlignment="Right"
-                                Orientation="Horizontal">
-                                    <TextBox
-                                    Width="50"
-                                    Style="{StaticResource TextBoxStyle}" />
+                                    Grid.Column="1"
+                                    HorizontalAlignment="Right"
+                                    Orientation="Horizontal">
+                                    <TextBox Width="50" Style="{StaticResource TextBoxStyle}" />
                                     <TextBlock VerticalAlignment="Center" Text="   Ø   " />
-                                    <ComboBox
-                                    Width="50"
-                                    Style="{StaticResource ComboBox}" />
+                                    <ComboBox Width="50" Style="{StaticResource ComboBox}" />
                                 </StackPanel>
                                 <TextBlock
-                                Grid.Row="1"
-                                Grid.Column="0"
-                                VerticalAlignment="Center"
-                                Text="Thép lớp trên:" />
+                                    Grid.Row="1"
+                                    Grid.Column="0"
+                                    VerticalAlignment="Center"
+                                    Text="Thép lớp trên:" />
                                 <StackPanel
-                                Grid.Row="1"
-                                Grid.Column="1"
-                                Margin="45,0,0,0"
-                                HorizontalAlignment="Right"
-                                Orientation="Horizontal">
-                                    <TextBox
-                                    Width="50"
-                                    Style="{StaticResource TextBoxStyle}" />
+                                    Grid.Row="1"
+                                    Grid.Column="1"
+                                    Margin="45,0,0,0"
+                                    HorizontalAlignment="Right"
+                                    Orientation="Horizontal">
+                                    <TextBox Width="50" Style="{StaticResource TextBoxStyle}" />
                                     <TextBlock VerticalAlignment="Center" Text="   Ø   " />
-                                    <ComboBox
-                                    Width="50"
-                                    Style="{StaticResource ComboBox}" />
+                                    <ComboBox Width="50" Style="{StaticResource ComboBox}" />
                                 </StackPanel>
                             </Grid>
                         </HeaderedContentControl>
                         <HeaderedContentControl
-                        Grid.Row="2"
-                        HorizontalAlignment="Stretch"
-                        VerticalAlignment="Center"
-                        Header="Thép đai:"
-                        Style="{DynamicResource RoundedHeaderBorderStyle}">
+                            Grid.Row="2"
+                            HorizontalAlignment="Stretch"
+                            VerticalAlignment="Center"
+                            Header="Thép đai:"
+                            Style="{DynamicResource RoundedHeaderBorderStyle}">
                             <Grid Margin="0,-5,0,0">
                                 <Grid.RowDefinitions>
                                     <RowDefinition Height="40" />
@@ -213,26 +197,26 @@
                                     <ColumnDefinition Width="Auto" />
                                 </Grid.ColumnDefinitions>
                                 <TextBlock
-                                Grid.Row="0"
-                                VerticalAlignment="Center"
-                                Text="Đường kính:" />
+                                    Grid.Row="0"
+                                    VerticalAlignment="Center"
+                                    Text="Đường kính:" />
                                 <ComboBox
-                                Grid.Column="1"
-                                Margin="73,0,0,0"
-                                Width="100"
-                                Style="{DynamicResource ComboBox}" />
+                                    Grid.Column="1"
+                                    Width="100"
+                                    Margin="73,0,0,0"
+                                    Style="{DynamicResource ComboBox}" />
                                 <TextBlock
-                                Grid.Row="1"
-                                Grid.Column="0"
-                                VerticalAlignment="Center"
-                                Text="Hình dạng đai:" />
+                                    Grid.Row="1"
+                                    Grid.Column="0"
+                                    VerticalAlignment="Center"
+                                    Text="Hình dạng đai:" />
                                 <ComboBox
-                                Grid.Row="1"
-                                Style="{DynamicResource ComboBox}"
-                                Margin="73,0,0,0"
-                                Grid.Column="1"
-                                Width="100"
-                                Height="76"/>
+                                    Grid.Row="1"
+                                    Grid.Column="1"
+                                    Width="100"
+                                    Height="76"
+                                    Margin="73,0,0,0"
+                                    Style="{DynamicResource ComboBox}" />
                             </Grid>
                         </HeaderedContentControl>
                     </StackPanel>

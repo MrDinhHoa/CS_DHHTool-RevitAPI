@@ -31,3 +31,7 @@ D:\01_WORKING\00. C-Sharp\04.CS_DHHTool_RevitAPI\00_00_DHHTool_RevitApp\obj\Debu
 D:\01_WORKING\00. C-Sharp\04.CS_DHHTool_RevitAPI\00_00_DHHTool_RevitApp\obj\Debug\00_00_DHHTool_RevitApp.csproj.CopyComplete
 D:\01_WORKING\00. C-Sharp\04.CS_DHHTool_RevitAPI\00_00_DHHTool_RevitApp\obj\Debug\00_00_DHHTool_RevitApp.dll
 D:\01_WORKING\00. C-Sharp\04.CS_DHHTool_RevitAPI\00_00_DHHTool_RevitApp\obj\Debug\00_00_DHHTool_RevitApp.pdb
+D:\PROGRAMMING\CS_DHHTool-RevitAPI\00_00_DHHTool_RevitApp\obj\Debug\00_00_DHHTool_RevitApp.csproj.AssemblyReference.cache
+D:\PROGRAMMING\CS_DHHTool-RevitAPI\00_00_DHHTool_RevitApp\obj\Debug\00_00_DHHTool_RevitApp.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\CS_DHHTool-RevitAPI\00_00_DHHTool_RevitApp\obj\Debug\00_00_DHHTool_RevitApp.dll
+D:\PROGRAMMING\CS_DHHTool-RevitAPI\00_00_DHHTool_RevitApp\obj\Debug\00_00_DHHTool_RevitApp.pdb
