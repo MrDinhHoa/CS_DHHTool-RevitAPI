@@ -14,6 +14,7 @@ namespace _02_02_DrawDetailBeam_Detail2D
     [Transaction(TransactionMode.Manual)]
     public class DrawDetailBeam: IExternalCommand
     {
+
         public Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)
         {
             UIApplication uIApplication = commandData.Application;
