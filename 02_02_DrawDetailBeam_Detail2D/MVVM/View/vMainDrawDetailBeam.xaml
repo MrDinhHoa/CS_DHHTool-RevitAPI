@@ -138,10 +138,9 @@
                     </StackPanel>
                     <StackPanel Grid.Column="1">
                         <HeaderedContentControl
-                            Grid.Row="1"
                             HorizontalAlignment="Stretch"
                             VerticalAlignment="Center"
-                            Header="Thép gia cường:"
+                            Header="Thép gia cường lớp trên:"
                             Style="{DynamicResource RoundedHeaderBorderStyle}">
                             <Grid Margin="0,-5,0,0">
                                 <Grid.RowDefinitions>
@@ -149,17 +148,18 @@
                                     <RowDefinition Height="40" />
                                 </Grid.RowDefinitions>
                                 <Grid.ColumnDefinitions>
-                                    <ColumnDefinition Width="100" />
+                                    <ColumnDefinition Width="65" />
                                     <ColumnDefinition Width="Auto" />
                                 </Grid.ColumnDefinitions>
                                 <TextBlock
                                     Grid.Row="0"
                                     VerticalAlignment="Center"
-                                    Text="Thép lớp trên:" />
+                                    Text="Lớp 1:" />
                                 <StackPanel
                                     Grid.Column="1"
                                     HorizontalAlignment="Right"
                                     Orientation="Horizontal">
+                                    <CheckBox VerticalAlignment="Center" Style="{StaticResource CheckBox}"/>
                                     <TextBox Width="50" Style="{StaticResource TextBoxStyle}" />
                                     <TextBlock VerticalAlignment="Center" Text="   Ø   " />
                                     <ComboBox Width="50" Style="{StaticResource ComboBox}" />
@@ -168,13 +168,14 @@
                                     Grid.Row="1"
                                     Grid.Column="0"
                                     VerticalAlignment="Center"
-                                    Text="Thép lớp trên:" />
+                                    Text="Lớp 2:" />
                                 <StackPanel
                                     Grid.Row="1"
                                     Grid.Column="1"
                                     Margin="45,0,0,0"
                                     HorizontalAlignment="Right"
                                     Orientation="Horizontal">
+                                    <CheckBox VerticalAlignment="Center" Style="{StaticResource CheckBox}"/>
                                     <TextBox Width="50" Style="{StaticResource TextBoxStyle}" />
                                     <TextBlock VerticalAlignment="Center" Text="   Ø   " />
                                     <ComboBox Width="50" Style="{StaticResource ComboBox}" />
@@ -182,41 +183,76 @@
                             </Grid>
                         </HeaderedContentControl>
                         <HeaderedContentControl
-                            Grid.Row="2"
                             HorizontalAlignment="Stretch"
                             VerticalAlignment="Center"
-                            Header="Thép đai:"
+                            Header="Thép gia cường lớp dưới:"
                             Style="{DynamicResource RoundedHeaderBorderStyle}">
                             <Grid Margin="0,-5,0,0">
                                 <Grid.RowDefinitions>
                                     <RowDefinition Height="40" />
-                                    <RowDefinition Height="80" />
+                                    <RowDefinition Height="40" />
                                 </Grid.RowDefinitions>
                                 <Grid.ColumnDefinitions>
-                                    <ColumnDefinition Width="100" />
+                                    <ColumnDefinition Width="65" />
                                     <ColumnDefinition Width="Auto" />
                                 </Grid.ColumnDefinitions>
                                 <TextBlock
                                     Grid.Row="0"
                                     VerticalAlignment="Center"
-                                    Text="Đường kính:" />
-                                <ComboBox
+                                    Text="Lớp 1:" />
+                                <StackPanel
                                     Grid.Column="1"
-                                    Width="100"
-                                    Margin="73,0,0,0"
-                                    Style="{DynamicResource ComboBox}" />
+                                    HorizontalAlignment="Right"
+                                    Orientation="Horizontal">
+                                    <CheckBox VerticalAlignment="Center" Style="{StaticResource CheckBox}"/>
+                                    <TextBox Width="50" Style="{StaticResource TextBoxStyle}" />
+                                    <TextBlock VerticalAlignment="Center" Text="   Ø   " />
+                                    <ComboBox Width="50" Style="{StaticResource ComboBox}" />
+                                </StackPanel>
                                 <TextBlock
                                     Grid.Row="1"
                                     Grid.Column="0"
                                     VerticalAlignment="Center"
-                                    Text="Hình dạng đai:" />
-                                <ComboBox
+                                    Text="Lớp 2:" />
+                                <StackPanel
                                     Grid.Row="1"
                                     Grid.Column="1"
-                                    Width="100"
-                                    Height="76"
-                                    Margin="73,0,0,0"
-                                    Style="{DynamicResource ComboBox}" />
+                                    Margin="45,0,0,0"
+                                    HorizontalAlignment="Right"
+                                    Orientation="Horizontal">
+                                    <CheckBox VerticalAlignment="Center" Style="{StaticResource CheckBox}"/>
+                                    <TextBox Width="50" Style="{StaticResource TextBoxStyle}" />
+                                    <TextBlock VerticalAlignment="Center" Text="   Ø   " />
+                                    <ComboBox Width="50" Style="{StaticResource ComboBox}" />
+                                </StackPanel>
+                            </Grid>
+                        </HeaderedContentControl>
+                        <HeaderedContentControl
+                            HorizontalAlignment="Stretch"
+                            VerticalAlignment="Center"
+                            Header="Thép giá:"
+                            Style="{DynamicResource RoundedHeaderBorderStyle}">
+                            <Grid Margin="0,-5,0,0">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="77" />
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="110" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock
+                                    Grid.Row="0"
+                                    VerticalAlignment="Center"
+                                    Text="Lớp 1:" />
+                                <StackPanel
+                                    Grid.Column="1"
+                                    HorizontalAlignment="Right"
+                                    Orientation="Horizontal">
+                                    <CheckBox VerticalAlignment="Center" Style="{StaticResource CheckBox}"/>
+                                    <TextBox Width="50" Style="{StaticResource TextBoxStyle}" />
+                                    <TextBlock VerticalAlignment="Center" Text="   Ø   " />
+                                    <ComboBox Width="50" Style="{StaticResource ComboBox}" />
+                                </StackPanel>
                             </Grid>
                         </HeaderedContentControl>
                     </StackPanel>
