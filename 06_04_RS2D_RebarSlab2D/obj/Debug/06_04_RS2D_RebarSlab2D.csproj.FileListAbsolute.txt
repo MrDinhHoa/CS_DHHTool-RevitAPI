@@ -52,3 +52,9 @@ D:\STUDY\Programming\C-Sharp\04.CS_DHHTool_RevitAPI\06_04_RS2D_RebarSlab2D\bin\D
 D:\STUDY\Programming\C-Sharp\04.CS_DHHTool_RevitAPI\06_04_RS2D_RebarSlab2D\bin\Debug\00_00_DHHShareLibrary.pdb
 D:\STUDY\Programming\C-Sharp\04.CS_DHHTool_RevitAPI\06_04_RS2D_RebarSlab2D\bin\Debug\RevitAPI.xml
 D:\STUDY\Programming\C-Sharp\04.CS_DHHTool_RevitAPI\06_04_RS2D_RebarSlab2D\obj\Debug\06_04_RS.8E9F0FDB.Up2Date
+D:\PROGRAMMING\CS_DHHTool-RevitAPI\06_04_RS2D_RebarSlab2D\obj\Debug\06_04_RS2D_RebarSlab2D.csproj.AssemblyReference.cache
+D:\PROGRAMMING\CS_DHHTool-RevitAPI\06_04_RS2D_RebarSlab2D\obj\Debug\MVVM\View\vMainRebarSlab2DSchedule.g.cs
+D:\PROGRAMMING\CS_DHHTool-RevitAPI\06_04_RS2D_RebarSlab2D\obj\Debug\06_04_RS2D_RebarSlab2D_MarkupCompile.cache
+D:\PROGRAMMING\CS_DHHTool-RevitAPI\06_04_RS2D_RebarSlab2D\obj\Debug\06_04_RS2D_RebarSlab2D_MarkupCompile.lref
+D:\PROGRAMMING\CS_DHHTool-RevitAPI\06_04_RS2D_RebarSlab2D\obj\Debug\06_04_RS2D_RebarSlab2D.dll
+D:\PROGRAMMING\CS_DHHTool-RevitAPI\06_04_RS2D_RebarSlab2D\obj\Debug\06_04_RS2D_RebarSlab2D.pdb

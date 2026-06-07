@@ -89,3 +89,9 @@ D:\01_WORKING\00. C-Sharp\04.CS_DHHTool_RevitAPI\03_01_RebarFoundation3D\obj\Deb
 D:\01_WORKING\00. C-Sharp\04.CS_DHHTool_RevitAPI\03_01_RebarFoundation3D\obj\Debug\03_01_RebarFoundation3D.dll
 D:\01_WORKING\00. C-Sharp\04.CS_DHHTool_RevitAPI\03_01_RebarFoundation3D\obj\Debug\03_01_RebarFoundation3D.pdb
 D:\STUDY\Programming\C-Sharp\04.CS_DHHTool_RevitAPI\03_01_RebarFoundation3D\obj\Debug\03_01_Re.78558A4A.Up2Date
+D:\PROGRAMMING\CS_DHHTool-RevitAPI\03_01_RebarFoundation3D\obj\Debug\03_01_RebarFoundation3D.csproj.AssemblyReference.cache
+D:\PROGRAMMING\CS_DHHTool-RevitAPI\03_01_RebarFoundation3D\obj\Debug\MVVM\View\vMain.g.cs
+D:\PROGRAMMING\CS_DHHTool-RevitAPI\03_01_RebarFoundation3D\obj\Debug\03_01_RebarFoundation3D_MarkupCompile.cache
+D:\PROGRAMMING\CS_DHHTool-RevitAPI\03_01_RebarFoundation3D\obj\Debug\03_01_RebarFoundation3D_MarkupCompile.lref
+D:\PROGRAMMING\CS_DHHTool-RevitAPI\03_01_RebarFoundation3D\obj\Debug\03_01_RebarFoundation3D.dll
+D:\PROGRAMMING\CS_DHHTool-RevitAPI\03_01_RebarFoundation3D\obj\Debug\03_01_RebarFoundation3D.pdb

@@ -1,0 +1,105 @@
+{
+  "version": 4,
+  "targets": {
+    "net48": {
+      "Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers/0.4.421302": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers.props": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers/0.4.421302": {
+      "sha512": "yZinZEQ/0ciwMB5zOlUF56UeDDJRp2lc/AFJFptLHOxkY+sxa68ictkbcinWn8lvs7oePJhLJBic7mdBGiQksA==",
+      "type": "package",
+      "path": "microsoft.dotnet.upgradeassistant.extensions.default.analyzers/0.4.421302",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers.Common.dll",
+        "analyzers/dotnet/cs/Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers.dll",
+        "analyzers/dotnet/cs/Microsoft.DotNet.UpgradeAssistant.Extensions.Default.CodeFixes.dll",
+        "analyzers/dotnet/vb/Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers.Common.dll",
+        "analyzers/dotnet/vb/Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers.dll",
+        "analyzers/dotnet/vb/Microsoft.DotNet.UpgradeAssistant.Extensions.Default.CodeFixes.dll",
+        "build/Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers.props",
+        "build/TypeMaps.props",
+        "build/WebTypeReplacements.typemap",
+        "icon.png",
+        "microsoft.dotnet.upgradeassistant.extensions.default.analyzers.0.4.421302.nupkg.sha512",
+        "microsoft.dotnet.upgradeassistant.extensions.default.analyzers.nuspec",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net48": [
+      "Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers >= 0.4.421302"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\dinhh\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\PROGRAMMING\\CS_DHHTool-RevitAPI\\00_00_DHHTool_RevitApp\\00_00_DHHTool_RevitApp.csproj",
+      "projectName": "00_00_DHHTool_RevitApp",
+      "projectPath": "D:\\PROGRAMMING\\CS_DHHTool-RevitAPI\\00_00_DHHTool_RevitApp\\00_00_DHHTool_RevitApp.csproj",
+      "packagesPath": "C:\\Users\\dinhh\\.nuget\\packages\\",
+      "outputPath": "D:\\PROGRAMMING\\CS_DHHTool-RevitAPI\\00_00_DHHTool_RevitApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\dinhh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "framework": "net48",
+          "targetAlias": "net48",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.300"
+    },
+    "frameworks": {
+      "net48": {
+        "framework": "net48",
+        "targetAlias": "net48",
+        "dependencies": {
+          "Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers": {
+            "target": "Package",
+            "version": "[0.4.421302, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

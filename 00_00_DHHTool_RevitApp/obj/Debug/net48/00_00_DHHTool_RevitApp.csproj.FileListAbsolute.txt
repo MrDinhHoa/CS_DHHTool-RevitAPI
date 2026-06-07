@@ -1,0 +1,4 @@
+D:\PROGRAMMING\CS_DHHTool-RevitAPI\00_00_DHHTool_RevitApp\obj\Debug\net48\00_00_DHHTool_RevitApp.csproj.AssemblyReference.cache
+D:\PROGRAMMING\CS_DHHTool-RevitAPI\00_00_DHHTool_RevitApp\obj\Debug\net48\00_00_DHHTool_RevitApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\CS_DHHTool-RevitAPI\00_00_DHHTool_RevitApp\obj\Debug\net48\00_00_DHHTool_RevitApp.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\CS_DHHTool-RevitAPI\00_00_DHHTool_RevitApp\obj\Debug\net48\00_00_DHHTool_RevitApp.sourcelink.json

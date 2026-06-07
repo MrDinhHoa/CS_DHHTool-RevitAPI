@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1hC2ufPZo8I=",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\CS_DHHTool-RevitAPI\\00_00_DHHTool_RevitApp\\00_00_DHHTool_RevitApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dinhh\\.nuget\\packages\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers\\0.4.421302\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers.0.4.421302.nupkg.sha512"
+  ],
+  "logs": []
+}
