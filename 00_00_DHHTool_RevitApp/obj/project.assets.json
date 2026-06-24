@@ -42,23 +42,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dinhh\\.nuget\\packages\\": {},
+    "C:\\Users\\dinh hoang hoa\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROGRAMMING\\CS_DHHTool-RevitAPI\\00_00_DHHTool_RevitApp\\00_00_DHHTool_RevitApp.csproj",
+      "projectUniqueName": "D:\\01_WORKING\\00. C-Sharp\\04.CS_DHHTool_RevitAPI\\00_00_DHHTool_RevitApp\\00_00_DHHTool_RevitApp.csproj",
       "projectName": "00_00_DHHTool_RevitApp",
-      "projectPath": "D:\\PROGRAMMING\\CS_DHHTool-RevitAPI\\00_00_DHHTool_RevitApp\\00_00_DHHTool_RevitApp.csproj",
-      "packagesPath": "C:\\Users\\dinhh\\.nuget\\packages\\",
-      "outputPath": "D:\\PROGRAMMING\\CS_DHHTool-RevitAPI\\00_00_DHHTool_RevitApp\\obj\\",
+      "projectPath": "D:\\01_WORKING\\00. C-Sharp\\04.CS_DHHTool_RevitAPI\\00_00_DHHTool_RevitApp\\00_00_DHHTool_RevitApp.csproj",
+      "packagesPath": "C:\\Users\\dinh hoang hoa\\.nuget\\packages\\",
+      "outputPath": "D:\\01_WORKING\\00. C-Sharp\\04.CS_DHHTool_RevitAPI\\00_00_DHHTool_RevitApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\dinhh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dinh hoang hoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -67,6 +67,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -98,7 +99,7 @@
             "version": "[0.4.421302, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
